@@ -1,6 +1,6 @@
 # Solidity_Smart_Contract
 
-![Alt text](\images\application-image.png)
+![Alt text](images/application-image.png)
 
 ## Fungible Token ERC20
 a new cryptocurrency called KaseiCoin (“Kasei” means “Mars” in Japanese.) has been created in the project. KaseiCoin is a fungible token that is ERC-20 compliant. 
@@ -34,11 +34,11 @@ In order to open and run this program you have to follow these steps:
 
 Create and compline Kaesicoin.sol first
 
-![Alt text](\images\Screenshot%202023-01-30%20at%207.45.54%20PM.png)
+![Alt text](images/Screenshot%202023-01-30%20at%207.45.54%20PM.png)
 
 Create and compline 
 
-![Alt text](\images\Screenshot%202023-01-31%20at%2010.20.36%20AM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%2010.20.36%20AM.png)
 
 # Deploy contracts
 
@@ -46,23 +46,23 @@ Select deployment Environment as Ganache in Remix IED
 
 Configure Ganache ip in the Remix IED 
 
-![Alt text](\images\Screenshot%202023-01-31%20at%2010.23.03%20AM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%2010.23.03%20AM.png)
 
 # Deploy the Crowdsale to a Local Blockchain
 
-![Alt text](\images\Screenshot%202023-01-31%20at%207.33.42%20PM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%207.33.42%20PM.png)
 
-![Alt text](\images\Screenshot%202023-01-31%20at%207.34.51%20PM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%207.34.51%20PM.png)
 
-![Alt text](\images\Screenshot%202023-01-31%20at%207.35.36%20PM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%207.35.36%20PM.png)
 
-![Alt text](\images\Screenshot%202023-01-31%20at%207.36.17%20PM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%207.36.17%20PM.png)
 
 # Test the Contracts
 
-![Alt text](\images\Screenshot%202023-01-31%20at%207.37.20%20PM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%207.37.20%20PM.png)
 
-![Alt text](\images\Screenshot%202023-01-31%20at%207.37.51%20PM.png)
+![Alt text](images/Screenshot%202023-01-31%20at%207.37.51%20PM.png)
 
 
 
